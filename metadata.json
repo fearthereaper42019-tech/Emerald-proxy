@@ -1,0 +1,8 @@
+{
+  "name": "Emerald Proxy Portal",
+  "description": "A sophisticated, high-performance web gateway interface with a minimalist emerald-themed design, featuring AI-powered smart URL optimization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
